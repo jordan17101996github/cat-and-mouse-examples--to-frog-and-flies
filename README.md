@@ -6,7 +6,7 @@ This is the 1st sound sample code of the animation
 
 I am attempting to make a parody code of this by editing the Cat and Mouse into Frog and fly. It was too difficult.
 
-![Screen Shot 2017-11-22 at 12.22.39.png](Screen Shot 2017-11-22 at 12.22.39.png.jpg) 
+![Screen Shot 2017-11-22 at 12.22.39.png](Screen Shot 2017-11-22 at 12.22.39.png) 
 
 First code:
 Cat and Mouse
